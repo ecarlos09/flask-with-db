@@ -1,0 +1,1 @@
+# First attempt at connecting FLASK API to a SQL Alchemy database
